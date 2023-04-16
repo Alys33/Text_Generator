@@ -1,1 +1,1 @@
-<p>Text Generator </p>
+Text Genertor
