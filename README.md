@@ -1,1 +1,1 @@
-Text Genertor
+Text Generator
